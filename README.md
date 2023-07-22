@@ -1,6 +1,8 @@
 # NewKid-LLM
 Empowering Language Processing with NewKidLLM - Customizable, Scalable &amp; Advanced
 
+![NewKid LLM Logo](https://github.com/abtzpro/NewKid-LLM/blob/main/1EE9163C-4D41-4523-B6A0-60D244C91D9F.png)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [What is NewKidLLM](#what-is-newkidllm)
