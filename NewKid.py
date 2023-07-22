@@ -3,17 +3,6 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.cuda.amp import autocast, GradScaler  # Mixed precision
 import math, time, os
-from torch.nn import TransformerEncoder, TransformerEncoderLayer
-from torchtext.datasets import WikiText2
-from torchtext.data.utils import get_tokenizer
-from torchtext.vocab import build_vocab_from_iterator
-from torchtext.data.functional import to_map_style_dataset
-
-import torch
-import torch.nn as nn
-import torch.optim as optim
-from torch.cuda.amp import autocast, GradScaler  # Mixed precision
-import math, time, os
 import numpy as np
 from torch.nn import TransformerEncoder, TransformerEncoderLayer
 from torchtext.datasets import WikiText2
